@@ -39,5 +39,3 @@ nslookup -type=MX example.com
 
 - **`dig`** is generally preferred for scripting because of its predictable output format and extensive detail.
 - **`nslookup`** is often used interactively and is available by default on many Windows systems as well as Unix-like operating systems.
-
-These tools are crucial for diagnosing DNS issues and obtaining detailed DNS record information. They provide network admins and system engineers with the means to query the DNS and understand how domains are resolving across the internet.
